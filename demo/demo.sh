@@ -1,0 +1,1 @@
+python3 demo/image_demo.py /home/duongdhk/backup/duongdhk/datasets/EasyPortrait/images/val/fd29e795-a8db-42d1-8e0d-062ba8d81ebd.jpg local_configs/easy_portrait_experiments/segformer/B2/segformer.b2.512x512.easyportrait.20k.py /home/duongdhk/backup/duongdhk/checkpoints/seg-former/segformer.b2.512x512.pth
